@@ -4,8 +4,8 @@
   "description": "Node.js backend application for HockeyPista 3.0",
   "main": "app.js",
   "scripts": {
-    "swagger": "node swagger.js",
-    "launch": "node swagger.js && npm start"
+    "swagger": "node swagger-2.js",
+    "launch": "node swagger-2.js && npm start"
   },
   "repository": {
     "type": "git",
